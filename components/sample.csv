@@ -1,0 +1,4 @@
+Cust_fname,Cust_lname,Cust_email,Cust_phone,Cust_address,Cust_business,B_address,B_industry,state,country,zipcode,B_phone,B_email,Cust_status,status
+John,Doe,john.doe@example.com,123-456-7890,123 Elm St,Tech Solutions,456 Oak St,IT,CA,USA,90001,987-654-3210,business@example.com,Added,Active
+Jane,Smith,jane.smith@example.com,234-567-8901,789 Maple Ave,Creative Designs,101 Pine St,Design,NY,USA,10001,876-543-2109,contact@creativedesigns.com,Call Not Answered,Inactive
+
